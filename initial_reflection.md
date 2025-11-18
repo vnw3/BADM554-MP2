@@ -1,11 +1,4 @@
 # Initial Reflection: Stablecoin Risk Analysis
-
-## Project: Analyzing USDC for Regional Bank Risk Assessment
-
-**Date:** November 17, 2025  
-**Team Members:** [Add your team members here]  
-**Project Duration:** 2 weeks
-
 ---
 
 ## 1. Chosen Persona
