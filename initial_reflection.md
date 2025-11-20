@@ -44,7 +44,7 @@ Before proceeding, senior leadership needs a comprehensive risk assessment of th
 
 ### Analysis Time Period
 
-**Last 6 months** (approximately May 2025 - November 2025)
+**Last 6 months** (May 1, 2025 - November 1, 2025)
 
 - Recent enough to reflect current market conditions
 - Long enough to capture normal vs. stress periods
